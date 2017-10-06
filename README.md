@@ -1,3 +1,3 @@
 # JavaFx-Beginning-Programs
-A simple smiley face
-A matrix of 1s and 0s
+1. A simple smiley face
+2. A matrix of 1s and 0s
